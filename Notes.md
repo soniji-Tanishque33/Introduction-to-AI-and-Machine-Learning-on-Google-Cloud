@@ -35,3 +35,4 @@ Some of the key innovations of google includes:
     - From this, large language models evolved rapidly, including **Bidirectional Encoder Representations from Transformers (BERT)** in 2018, Language Model for Dialogue Applications (LaMDA) in 2021, Pathways Language Model (PaLM).
     - **Gemini**, the most recent cutting-edge genAI model to process multimodal data released at the end of 2023.
     - In 2023, Google also announced a series of generative AI products on **Vertex AI** such as **Vertex AI Studio, Model Garden, and Search and Conversation**.
+### latest time-stamp: 0.48/8min link https://www.cloudskillsboost.google/paths/17/course_templates/593/video/470128 
